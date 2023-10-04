@@ -1,16 +1,14 @@
-### Hi there 👋
+### boas vindas ao meu perfil🖤 
 
-<!--
-**eduardo15102007/eduardo15102007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Eduardo Belter
 
-Here are some ideas to get you started:
+-Estou estudando no alura;
+-Estou me desenvolvendo na linguagem javascript
+-Utilizo esse espaço para organização e compartilhamento de meus projetos desenvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Vecê entrar em contato comigo📪
+
+eduardo.belter2escola.pr.gov.br
+
+
+
